@@ -1,2 +1,3 @@
 ---
-# defaults file for schemup
+schemup_user: "{{remote_user}}"
+schemup_virtualenv_path: "~/"
